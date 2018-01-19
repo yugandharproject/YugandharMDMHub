@@ -1,0 +1,5741 @@
+SQL> -----------------------------------------------------------------------
+SQL> Select 'ACCOUNT' from DUAL;
+
+'ACCOUN
+-------
+ACCOUNT
+
+SQL> @.\DataImport\ACCOUNT.sql
+SQL> Select 'AL_AUTH_USER_REGISTRY' from DUAL;
+
+'AL_AUTH_USER_REGISTR
+---------------------
+AL_AUTH_USER_REGISTRY
+
+SQL> @.\DataImport\AL_AUTH_USER_REGISTRY.sql
+SQL> Select 'AL_CONFIG_APP_PROPERTIES' from DUAL;
+
+'AL_CONFIG_APP_PROPERTIE
+------------------------
+AL_CONFIG_APP_PROPERTIES
+
+SQL> @.\DataImport\AL_CONFIG_APP_PROPERTIES.sql
+SQL> Select 'AL_CORPORATIONNAMES' from DUAL;
+
+'AL_CORPORATIONNAME
+-------------------
+AL_CORPORATIONNAMES
+
+SQL> @.\DataImport\AL_CORPORATIONNAMES.sql
+SQL> Select 'AL_MISCELLANEOUS_INFO' from DUAL;
+
+'AL_MISCELLANEOUS_INF
+---------------------
+AL_MISCELLANEOUS_INFO
+
+SQL> @.\DataImport\AL_MISCELLANEOUS_INFO.sql
+SQL> Select 'AL_REF_CLASSIFICATION_CODE' from DUAL;
+
+'AL_REF_CLASSIFICATION_COD
+--------------------------
+AL_REF_CLASSIFICATION_CODE
+
+SQL> @.\DataImport\AL_REF_CLASSIFICATION_CODE.sql
+SQL> Select 'AL_REF_HIGHEST_EDU_QUAL' from DUAL;
+
+'AL_REF_HIGHEST_EDU_QUA
+-----------------------
+AL_REF_HIGHEST_EDU_QUAL
+
+SQL> @.\DataImport\AL_REF_HIGHEST_EDU_QUAL.sql
+SQL> Select 'AL_REF_IMPORTANCE_TYPE' from DUAL;
+
+'AL_REF_IMPORTANCE_TYP
+----------------------
+AL_REF_IMPORTANCE_TYPE
+
+SQL> @.\DataImport\AL_REF_IMPORTANCE_TYPE.sql
+SQL> Select 'AL_REF_INDUSTRY_CODE' from DUAL;
+
+'AL_REF_INDUSTRY_COD
+--------------------
+AL_REF_INDUSTRY_CODE
+
+SQL> @.\DataImport\AL_REF_INDUSTRY_CODE.sql
+SQL> Select 'AL_REF_PHONE_TYPE' from DUAL;
+
+'AL_REF_PHONE_TYP
+-----------------
+AL_REF_PHONE_TYPE
+
+SQL> @.\DataImport\AL_REF_PHONE_TYPE.sql
+SQL> Select 'AL_REF_RELATIONSHIP_STATUS' from DUAL;
+
+'AL_REF_RELATIONSHIP_STATU
+--------------------------
+AL_REF_RELATIONSHIP_STATUS
+
+SQL> @.\DataImport\AL_REF_RELATIONSHIP_STATUS.sql
+SQL> Select 'AUTH_ROLES_REGISTRY' from DUAL;
+
+'AUTH_ROLES_REGISTR
+-------------------
+AUTH_ROLES_REGISTRY
+
+SQL> @.\DataImport\AUTH_ROLES_REGISTRY.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'LE_CORPORATION' from DUAL;
+
+'LE_CORPORATIO
+--------------
+LE_CORPORATION
+
+SQL> @.\DataImport\LE_CORPORATION.sql
+SQL> Select 'LE_PERSON' from DUAL;
+
+'LE_PERSO
+---------
+LE_PERSON
+
+SQL> @.\DataImport\LE_PERSON.sql
+SQL> Select 'REF_BATCH_ACTION_STATUS' from DUAL;
+
+'REF_BATCH_ACTION_STATU
+-----------------------
+REF_BATCH_ACTION_STATUS
+
+SQL> @.\DataImport\REF_BATCH_ACTION_STATUS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_BRANCH_CODE' from DUAL;
+
+'REF_BRANCH_COD
+---------------
+REF_BRANCH_CODE
+
+SQL> @.\DataImport\REF_BRANCH_CODE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_COUNTRY_ISO' from DUAL;
+
+'REF_COUNTRY_IS
+---------------
+REF_COUNTRY_ISO
+
+SQL> @.\DataImport\REF_COUNTRY_ISO.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_DEACTIVATION_REASON' from DUAL;
+
+'REF_DEACTIVATION_REASO
+-----------------------
+REF_DEACTIVATION_REASON
+
+SQL> @.\DataImport\REF_DEACTIVATION_REASON.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_IMPORTANCE_TYPE' from DUAL;
+
+'REF_IMPORTANCE_TYP
+-------------------
+REF_IMPORTANCE_TYPE
+
+SQL> @.\DataImport\REF_IMPORTANCE_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MATCH_RESULT' from DUAL;
+
+'REF_MATCH_RESUL
+----------------
+REF_MATCH_RESULT
+
+SQL> @.\DataImport\REF_MATCH_RESULT.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PROPERTY_LE_RELTYPE' from DUAL;
+
+'REF_PROPERTY_LE_RELTYP
+-----------------------
+REF_PROPERTY_LE_RELTYPE
+
+SQL> @.\DataImport\REF_PROPERTY_LE_RELTYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_SUFFIX_NAME' from DUAL;
+
+'REF_SUFFIX_NAM
+---------------
+REF_SUFFIX_NAME
+
+SQL> @.\DataImport\REF_SUFFIX_NAME.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'AL_CONFIG_INQUIRY_LEVELS' from DUAL;
+
+'AL_CONFIG_INQUIRY_LEVEL
+------------------------
+AL_CONFIG_INQUIRY_LEVELS
+
+SQL> @.\DataImport\AL_CONFIG_INQUIRY_LEVELS.sql
+SQL> Select 'AL_ENTITY_GROUP' from DUAL;
+
+'AL_ENTITY_GROU
+---------------
+AL_ENTITY_GROUP
+
+SQL> @.\DataImport\AL_ENTITY_GROUP.sql
+SQL> Select 'AL_LE_CORPORATION' from DUAL;
+
+'AL_LE_CORPORATIO
+-----------------
+AL_LE_CORPORATION
+
+SQL> @.\DataImport\AL_LE_CORPORATION.sql
+SQL> Select 'AL_LE_PHONE_ASSOC' from DUAL;
+
+'AL_LE_PHONE_ASSO
+-----------------
+AL_LE_PHONE_ASSOC
+
+SQL> @.\DataImport\AL_LE_PHONE_ASSOC.sql
+SQL> Select 'AL_REF_ENTITY_OBJECT_TYPE' from DUAL;
+
+'AL_REF_ENTITY_OBJECT_TYP
+-------------------------
+AL_REF_ENTITY_OBJECT_TYPE
+
+SQL> @.\DataImport\AL_REF_ENTITY_OBJECT_TYPE.sql
+SQL> Select 'AL_REF_MATCH_SCORE' from DUAL;
+
+'AL_REF_MATCH_SCOR
+------------------
+AL_REF_MATCH_SCORE
+
+SQL> @.\DataImport\AL_REF_MATCH_SCORE.sql
+SQL> Select 'AUTH_USERROLE_ACCESSCONTROL' from DUAL;
+
+'AUTH_USERROLE_ACCESSCONTRO
+---------------------------
+AUTH_USERROLE_ACCESSCONTROL
+
+SQL> @.\DataImport\AUTH_USERROLE_ACCESSCONTROL.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'CONFIG_TXN_REGISTRY' from DUAL;
+
+'CONFIG_TXN_REGISTR
+-------------------
+CONFIG_TXN_REGISTRY
+
+SQL> @.\DataImport\CONFIG_TXN_REGISTRY.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'PROPERTY' from DUAL;
+
+'PROPERT
+--------
+PROPERTY
+
+SQL> @.\DataImport\PROPERTY.sql
+SQL> Select 'REF_ADDRESS_TYPE' from DUAL;
+
+'REF_ADDRESS_TYP
+----------------
+REF_ADDRESS_TYPE
+
+SQL> @.\DataImport\REF_ADDRESS_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_BILLING_MODE_TYPE' from DUAL;
+
+'REF_BILLING_MODE_TYP
+---------------------
+REF_BILLING_MODE_TYPE
+
+SQL> @.\DataImport\REF_BILLING_MODE_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_GROUP_TYPE' from DUAL;
+
+'REF_GROUP_TYP
+--------------
+REF_GROUP_TYPE
+
+SQL> @.\DataImport\REF_GROUP_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'AL_AUTH_ROLES_REGISTRY' from DUAL;
+
+'AL_AUTH_ROLES_REGISTR
+----------------------
+AL_AUTH_ROLES_REGISTRY
+
+SQL> @.\DataImport\AL_AUTH_ROLES_REGISTRY.sql
+SQL> Select 'AL_BATCH_ENTITY_TO_PROCESS' from DUAL;
+
+'AL_BATCH_ENTITY_TO_PROCES
+--------------------------
+AL_BATCH_ENTITY_TO_PROCESS
+
+SQL> @.\DataImport\AL_BATCH_ENTITY_TO_PROCESS.sql
+SQL> Select 'AL_MATCH_MERGED_LE_ASSOC' from DUAL;
+
+'AL_MATCH_MERGED_LE_ASSO
+------------------------
+AL_MATCH_MERGED_LE_ASSOC
+
+SQL> @.\DataImport\AL_MATCH_MERGED_LE_ASSOC.sql
+SQL> Select 'AL_REF_ASSOC_TYPE' from DUAL;
+
+'AL_REF_ASSOC_TYP
+-----------------
+AL_REF_ASSOC_TYPE
+
+SQL> @.\DataImport\AL_REF_ASSOC_TYPE.sql
+SQL> Select 'AL_REF_BILLING_MODE_TYPE' from DUAL;
+
+'AL_REF_BILLING_MODE_TYP
+------------------------
+AL_REF_BILLING_MODE_TYPE
+
+SQL> @.\DataImport\AL_REF_BILLING_MODE_TYPE.sql
+SQL> Select 'AL_REF_CORPORATION_NAME_TYP' from DUAL;
+
+'AL_REF_CORPORATION_NAME_TY
+---------------------------
+AL_REF_CORPORATION_NAME_TYP
+
+SQL> @.\DataImport\AL_REF_CORPORATION_NAME_TYP.sql
+SQL> Select 'AL_REF_CURRENCY' from DUAL;
+
+'AL_REF_CURRENC
+---------------
+AL_REF_CURRENCY
+
+SQL> @.\DataImport\AL_REF_CURRENCY.sql
+SQL> Select 'AL_REF_LE_ROLETYPE' from DUAL;
+
+'AL_REF_LE_ROLETYP
+------------------
+AL_REF_LE_ROLETYPE
+
+SQL> @.\DataImport\AL_REF_LE_ROLETYPE.sql
+SQL> Select 'AL_REF_LOBTYPE' from DUAL;
+
+'AL_REF_LOBTYP
+--------------
+AL_REF_LOBTYPE
+
+SQL> @.\DataImport\AL_REF_LOBTYPE.sql
+SQL> Select 'AL_REF_PREFERENCE_TYPE' from DUAL;
+
+'AL_REF_PREFERENCE_TYP
+----------------------
+AL_REF_PREFERENCE_TYPE
+
+SQL> @.\DataImport\AL_REF_PREFERENCE_TYPE.sql
+SQL> Select 'AL_REF_STATE_PROVINCE' from DUAL;
+
+'AL_REF_STATE_PROVINC
+---------------------
+AL_REF_STATE_PROVINCE
+
+SQL> @.\DataImport\AL_REF_STATE_PROVINCE.sql
+SQL> Select 'AL_REF_SUFFIX_NAME' from DUAL;
+
+'AL_REF_SUFFIX_NAM
+------------------
+AL_REF_SUFFIX_NAME
+
+SQL> @.\DataImport\AL_REF_SUFFIX_NAME.sql
+SQL> Select 'AL_REF_TERMINATION_REASON' from DUAL;
+
+'AL_REF_TERMINATION_REASO
+-------------------------
+AL_REF_TERMINATION_REASON
+
+SQL> @.\DataImport\AL_REF_TERMINATION_REASON.sql
+SQL> Select 'ENTITY_GROUP_ASSOC' from DUAL;
+
+'ENTITY_GROUP_ASSO
+------------------
+ENTITY_GROUP_ASSOC
+
+SQL> @.\DataImport\ENTITY_GROUP_ASSOC.sql
+SQL> Select 'INACTIVE_LE_REGISTRY' from DUAL;
+
+'INACTIVE_LE_REGISTR
+--------------------
+INACTIVE_LE_REGISTRY
+
+SQL> @.\DataImport\INACTIVE_LE_REGISTRY.sql
+SQL> Select 'LE_SYSTEM_KEYS_REGISTRY' from DUAL;
+
+'LE_SYSTEM_KEYS_REGISTR
+-----------------------
+LE_SYSTEM_KEYS_REGISTRY
+
+SQL> @.\DataImport\LE_SYSTEM_KEYS_REGISTRY.sql
+SQL> Select 'PHONE_STANDARDIZED' from DUAL;
+
+'PHONE_STANDARDIZE
+------------------
+PHONE_STANDARDIZED
+
+SQL> @.\DataImport\PHONE_STANDARDIZED.sql
+SQL> Select 'REF_CORPORATION_TYPE' from DUAL;
+
+'REF_CORPORATION_TYP
+--------------------
+REF_CORPORATION_TYPE
+
+SQL> @.\DataImport\REF_CORPORATION_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_GROUP_SUBTYPE' from DUAL;
+
+'REF_GROUP_SUBTYP
+-----------------
+REF_GROUP_SUBTYPE
+
+SQL> @.\DataImport\REF_GROUP_SUBTYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_IDENTIFICATION_TYPE' from DUAL;
+
+'REF_IDENTIFICATION_TYP
+-----------------------
+REF_IDENTIFICATION_TYPE
+
+SQL> @.\DataImport\REF_IDENTIFICATION_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PREFERENCE_TYPE' from DUAL;
+
+'REF_PREFERENCE_TYP
+-------------------
+REF_PREFERENCE_TYPE
+
+SQL> @.\DataImport\REF_PREFERENCE_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_STATE_PROVINCE' from DUAL;
+
+'REF_STATE_PROVINC
+------------------
+REF_STATE_PROVINCE
+
+SQL> @.\DataImport\REF_STATE_PROVINCE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_TERMINATION_REASON' from DUAL;
+
+'REF_TERMINATION_REASO
+----------------------
+REF_TERMINATION_REASON
+
+SQL> @.\DataImport\REF_TERMINATION_REASON.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'AL_ACCOUNT' from DUAL;
+
+'AL_ACCOUN
+----------
+AL_ACCOUNT
+
+SQL> @.\DataImport\AL_ACCOUNT.sql
+SQL> Select 'AL_CONFIG_LANGUAGE_CODE' from DUAL;
+
+'AL_CONFIG_LANGUAGE_COD
+-----------------------
+AL_CONFIG_LANGUAGE_CODE
+
+SQL> @.\DataImport\AL_CONFIG_LANGUAGE_CODE.sql
+SQL> Select 'AL_INACTIVE_LE_REGISTRY' from DUAL;
+
+'AL_INACTIVE_LE_REGISTR
+-----------------------
+AL_INACTIVE_LE_REGISTRY
+
+SQL> @.\DataImport\AL_INACTIVE_LE_REGISTRY.sql
+SQL> Select 'AL_LE_ACCOUNT_ASSOC' from DUAL;
+
+'AL_LE_ACCOUNT_ASSO
+-------------------
+AL_LE_ACCOUNT_ASSOC
+
+SQL> @.\DataImport\AL_LE_ACCOUNT_ASSOC.sql
+SQL> Select 'AL_REF_ACCOUNT_MDM_STATUS' from DUAL;
+
+'AL_REF_ACCOUNT_MDM_STATU
+-------------------------
+AL_REF_ACCOUNT_MDM_STATUS
+
+SQL> @.\DataImport\AL_REF_ACCOUNT_MDM_STATUS.sql
+SQL> Select 'AL_REF_AGREEMENT_TYPE' from DUAL;
+
+'AL_REF_AGREEMENT_TYP
+---------------------
+AL_REF_AGREEMENT_TYPE
+
+SQL> @.\DataImport\AL_REF_AGREEMENT_TYPE.sql
+SQL> Select 'AL_REF_CORPORATION_NAME_TYPE' from DUAL;
+
+'AL_REF_CORPORATION_NAME_TYP
+----------------------------
+AL_REF_CORPORATION_NAME_TYPE
+
+SQL> @.\DataImport\AL_REF_CORPORATION_NAME_TYPE.sql
+SQL> Select 'AL_REF_GROUP_SUBTYPE' from DUAL;
+
+'AL_REF_GROUP_SUBTYP
+--------------------
+AL_REF_GROUP_SUBTYPE
+
+SQL> @.\DataImport\AL_REF_GROUP_SUBTYPE.sql
+SQL> Select 'AL_REF_LE_RATING' from DUAL;
+
+'AL_REF_LE_RATIN
+----------------
+AL_REF_LE_RATING
+
+SQL> @.\DataImport\AL_REF_LE_RATING.sql
+SQL> Select 'AL_REF_MATCH_PROPOSED_ACTION' from DUAL;
+
+'AL_REF_MATCH_PROPOSED_ACTIO
+----------------------------
+AL_REF_MATCH_PROPOSED_ACTION
+
+SQL> @.\DataImport\AL_REF_MATCH_PROPOSED_ACTION.sql
+SQL> Select 'AL_REF_MATCH_RESULT' from DUAL;
+
+'AL_REF_MATCH_RESUL
+-------------------
+AL_REF_MATCH_RESULT
+
+SQL> @.\DataImport\AL_REF_MATCH_RESULT.sql
+SQL> Select 'AL_REF_PROPERTY_LE_RELTYPE' from DUAL;
+
+'AL_REF_PROPERTY_LE_RELTYP
+--------------------------
+AL_REF_PROPERTY_LE_RELTYPE
+
+SQL> @.\DataImport\AL_REF_PROPERTY_LE_RELTYPE.sql
+SQL> Select 'CONFIG_APP_PROPERTIES' from DUAL;
+
+'CONFIG_APP_PROPERTIE
+---------------------
+CONFIG_APP_PROPERTIES
+
+SQL> @.\DataImport\CONFIG_APP_PROPERTIES.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_ACCOUNT_MDM_STATUS' from DUAL;
+
+'REF_ACCOUNT_MDM_STATU
+----------------------
+REF_ACCOUNT_MDM_STATUS
+
+SQL> @.\DataImport\REF_ACCOUNT_MDM_STATUS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_ADDRESS_SUBTYPE' from DUAL;
+
+'REF_ADDRESS_SUBTYP
+-------------------
+REF_ADDRESS_SUBTYPE
+
+SQL> @.\DataImport\REF_ADDRESS_SUBTYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_ASSOC_TYPE' from DUAL;
+
+'REF_ASSOC_TYP
+--------------
+REF_ASSOC_TYPE
+
+SQL> @.\DataImport\REF_ASSOC_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_HIGHEST_EDU_QUAL' from DUAL;
+
+'REF_HIGHEST_EDU_QUA
+--------------------
+REF_HIGHEST_EDU_QUAL
+
+SQL> @.\DataImport\REF_HIGHEST_EDU_QUAL.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MATCH_ACTIONSTATUS' from DUAL;
+
+'REF_MATCH_ACTIONSTATU
+----------------------
+REF_MATCH_ACTIONSTATUS
+
+SQL> @.\DataImport\REF_MATCH_ACTIONSTATUS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MATCH_PROPOSED_ACTION' from DUAL;
+
+'REF_MATCH_PROPOSED_ACTIO
+-------------------------
+REF_MATCH_PROPOSED_ACTION
+
+SQL> @.\DataImport\REF_MATCH_PROPOSED_ACTION.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PHONE_TYPE' from DUAL;
+
+'REF_PHONE_TYP
+--------------
+REF_PHONE_TYPE
+
+SQL> @.\DataImport\REF_PHONE_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'AL_AUTH_USER_ROLE_ASSOC' from DUAL;
+
+'AL_AUTH_USER_ROLE_ASSO
+-----------------------
+AL_AUTH_USER_ROLE_ASSOC
+
+SQL> @.\DataImport\AL_AUTH_USER_ROLE_ASSOC.sql
+SQL> Select 'AL_CONFIG_TXN_REGISTRY' from DUAL;
+
+'AL_CONFIG_TXN_REGISTR
+----------------------
+AL_CONFIG_TXN_REGISTRY
+
+SQL> @.\DataImport\AL_CONFIG_TXN_REGISTRY.sql
+SQL> Select 'AL_MATCH_CANDIDATE_LE_REGISTRY' from DUAL;
+
+'AL_MATCH_CANDIDATE_LE_REGISTR
+------------------------------
+AL_MATCH_CANDIDATE_LE_REGISTRY
+
+SQL> @.\DataImport\AL_MATCH_CANDIDATE_LE_REGISTRY.sql
+SQL> Select 'AL_REF_IDENTIFICATION_TYPE' from DUAL;
+
+'AL_REF_IDENTIFICATION_TYP
+--------------------------
+AL_REF_IDENTIFICATION_TYPE
+
+SQL> @.\DataImport\AL_REF_IDENTIFICATION_TYPE.sql
+SQL> Select 'AL_REF_LANGUAGE_CODE' from DUAL;
+
+'AL_REF_LANGUAGE_COD
+--------------------
+AL_REF_LANGUAGE_CODE
+
+SQL> @.\DataImport\AL_REF_LANGUAGE_CODE.sql
+SQL> Select 'AL_REF_LE_RELATIONSHIP_TYPE' from DUAL;
+
+'AL_REF_LE_RELATIONSHIP_TYP
+---------------------------
+AL_REF_LE_RELATIONSHIP_TYPE
+
+SQL> @.\DataImport\AL_REF_LE_RELATIONSHIP_TYPE.sql
+SQL> Select 'AL_REF_MATCH_ACTIONSTATUS' from DUAL;
+
+'AL_REF_MATCH_ACTIONSTATU
+-------------------------
+AL_REF_MATCH_ACTIONSTATUS
+
+SQL> @.\DataImport\AL_REF_MATCH_ACTIONSTATUS.sql
+SQL> Select 'AL_REF_MATCH_THRESHOLD' from DUAL;
+
+'AL_REF_MATCH_THRESHOL
+----------------------
+AL_REF_MATCH_THRESHOLD
+
+SQL> @.\DataImport\AL_REF_MATCH_THRESHOLD.sql
+SQL> Select 'AL_REF_PREFIX_NAME' from DUAL;
+
+'AL_REF_PREFIX_NAM
+------------------
+AL_REF_PREFIX_NAME
+
+SQL> @.\DataImport\AL_REF_PREFIX_NAME.sql
+SQL> Select 'CONFIG_ERRORCODE_REGISTRY' from DUAL;
+
+'CONFIG_ERRORCODE_REGISTR
+-------------------------
+CONFIG_ERRORCODE_REGISTRY
+
+SQL> @.\DataImport\CONFIG_ERRORCODE_REGISTRY.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'CONFIG_INQUIRY_LEVELS' from DUAL;
+
+'CONFIG_INQUIRY_LEVEL
+---------------------
+CONFIG_INQUIRY_LEVELS
+
+SQL> @.\DataImport\CONFIG_INQUIRY_LEVELS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'ENTITY_GROUP' from DUAL;
+
+'ENTITY_GROU
+------------
+ENTITY_GROUP
+
+SQL> @.\DataImport\ENTITY_GROUP.sql
+SQL> Select 'LE_ADDRESS_ASSOC' from DUAL;
+
+'LE_ADDRESS_ASSO
+----------------
+LE_ADDRESS_ASSOC
+
+SQL> @.\DataImport\LE_ADDRESS_ASSOC.sql
+SQL> Select 'MATCH_CANDIDATE_LE_REGISTRY' from DUAL;
+
+'MATCH_CANDIDATE_LE_REGISTR
+---------------------------
+MATCH_CANDIDATE_LE_REGISTRY
+
+SQL> @.\DataImport\MATCH_CANDIDATE_LE_REGISTRY.sql
+SQL> Select 'REF_ACCOUNT_SOURCE_STATUS' from DUAL;
+
+'REF_ACCOUNT_SOURCE_STATU
+-------------------------
+REF_ACCOUNT_SOURCE_STATUS
+
+SQL> @.\DataImport\REF_ACCOUNT_SOURCE_STATUS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_CURRENCY' from DUAL;
+
+'REF_CURRENC
+------------
+REF_CURRENCY
+
+SQL> @.\DataImport\REF_CURRENCY.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_ENTITY_OBJECT_TYPE' from DUAL;
+
+'REF_ENTITY_OBJECT_TYP
+----------------------
+REF_ENTITY_OBJECT_TYPE
+
+SQL> @.\DataImport\REF_ENTITY_OBJECT_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_LE_RELATIONSHIP_TYPE' from DUAL;
+
+'REF_LE_RELATIONSHIP_TYP
+------------------------
+REF_LE_RELATIONSHIP_TYPE
+
+SQL> @.\DataImport\REF_LE_RELATIONSHIP_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MATCH_THRESHOLD' from DUAL;
+
+'REF_MATCH_THRESHOL
+-------------------
+REF_MATCH_THRESHOLD
+
+SQL> @.\DataImport\REF_MATCH_THRESHOLD.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MERGE_REASON' from DUAL;
+
+'REF_MERGE_REASO
+----------------
+REF_MERGE_REASON
+
+SQL> @.\DataImport\REF_MERGE_REASON.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PERSONNAME_TYPE' from DUAL;
+
+'REF_PERSONNAME_TYP
+-------------------
+REF_PERSONNAME_TYPE
+
+SQL> @.\DataImport\REF_PERSONNAME_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PREFIX_NAME' from DUAL;
+
+'REF_PREFIX_NAM
+---------------
+REF_PREFIX_NAME
+
+SQL> @.\DataImport\REF_PREFIX_NAME.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_SOURCE_SYSTEM' from DUAL;
+
+'REF_SOURCE_SYSTE
+-----------------
+REF_SOURCE_SYSTEM
+
+SQL> @.\DataImport\REF_SOURCE_SYSTEM.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'AL_ENTITY_GROUP_ASSOC' from DUAL;
+
+'AL_ENTITY_GROUP_ASSO
+---------------------
+AL_ENTITY_GROUP_ASSOC
+
+SQL> @.\DataImport\AL_ENTITY_GROUP_ASSOC.sql
+SQL> Select 'AL_LE_PREFERENCES' from DUAL;
+
+'AL_LE_PREFERENCE
+-----------------
+AL_LE_PREFERENCES
+
+SQL> @.\DataImport\AL_LE_PREFERENCES.sql
+SQL> Select 'AL_LE_PROPERTY_ASSOC' from DUAL;
+
+'AL_LE_PROPERTY_ASSO
+--------------------
+AL_LE_PROPERTY_ASSOC
+
+SQL> @.\DataImport\AL_LE_PROPERTY_ASSOC.sql
+SQL> Select 'AL_LE_SYSTEM_KEYS_REGISTRY' from DUAL;
+
+'AL_LE_SYSTEM_KEYS_REGISTR
+--------------------------
+AL_LE_SYSTEM_KEYS_REGISTRY
+
+SQL> @.\DataImport\AL_LE_SYSTEM_KEYS_REGISTRY.sql
+SQL> Select 'AL_REF_BATCH_ACTION_STATUS' from DUAL;
+
+'AL_REF_BATCH_ACTION_STATU
+--------------------------
+AL_REF_BATCH_ACTION_STATUS
+
+SQL> @.\DataImport\AL_REF_BATCH_ACTION_STATUS.sql
+SQL> Select 'AL_REF_BATCH_PROPOSED_ACTION' from DUAL;
+
+'AL_REF_BATCH_PROPOSED_ACTIO
+----------------------------
+AL_REF_BATCH_PROPOSED_ACTION
+
+SQL> @.\DataImport\AL_REF_BATCH_PROPOSED_ACTION.sql
+SQL> Select 'AL_REF_GENDER' from DUAL;
+
+'AL_REF_GENDE
+-------------
+AL_REF_GENDER
+
+SQL> @.\DataImport\AL_REF_GENDER.sql
+SQL> Select 'AL_REF_STATUS_IN_SOURCE' from DUAL;
+
+'AL_REF_STATUS_IN_SOURC
+-----------------------
+AL_REF_STATUS_IN_SOURCE
+
+SQL> @.\DataImport\AL_REF_STATUS_IN_SOURCE.sql
+SQL> Select 'AUTH_USER_REGISTRY' from DUAL;
+
+'AUTH_USER_REGISTR
+------------------
+AUTH_USER_REGISTRY
+
+SQL> @.\DataImport\AUTH_USER_REGISTRY.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'CONFIG_LANGUAGE_CODE' from DUAL;
+
+'CONFIG_LANGUAGE_COD
+--------------------
+CONFIG_LANGUAGE_CODE
+
+SQL> @.\DataImport\CONFIG_LANGUAGE_CODE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'LE_ACCOUNT_ASSOC' from DUAL;
+
+'LE_ACCOUNT_ASSO
+----------------
+LE_ACCOUNT_ASSOC
+
+SQL> @.\DataImport\LE_ACCOUNT_ASSOC.sql
+SQL> Select 'LE_PROPERTY_ASSOC' from DUAL;
+
+'LE_PROPERTY_ASSO
+-----------------
+LE_PROPERTY_ASSOC
+
+SQL> @.\DataImport\LE_PROPERTY_ASSOC.sql
+SQL> Select 'MATCH_MERGED_LE_ASSOC' from DUAL;
+
+'MATCH_MERGED_LE_ASSO
+---------------------
+MATCH_MERGED_LE_ASSOC
+
+SQL> @.\DataImport\MATCH_MERGED_LE_ASSOC.sql
+SQL> Select 'MISCELLANEOUS_INFO' from DUAL;
+
+'MISCELLANEOUS_INF
+------------------
+MISCELLANEOUS_INFO
+
+SQL> @.\DataImport\MISCELLANEOUS_INFO.sql
+SQL> Select 'REF_CORPORATION_NAME_TYPE' from DUAL;
+
+'REF_CORPORATION_NAME_TYP
+-------------------------
+REF_CORPORATION_NAME_TYPE
+
+SQL> @.\DataImport\REF_CORPORATION_NAME_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_GENDER' from DUAL;
+
+'REF_GENDE
+----------
+REF_GENDER
+
+SQL> @.\DataImport\REF_GENDER.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_LOBTYPE' from DUAL;
+
+'REF_LOBTYP
+-----------
+REF_LOBTYPE
+
+SQL> @.\DataImport\REF_LOBTYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PHONE_SUBTYPE' from DUAL;
+
+'REF_PHONE_SUBTYP
+-----------------
+REF_PHONE_SUBTYPE
+
+SQL> @.\DataImport\REF_PHONE_SUBTYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'ACCOUNT_ADDRESS_ASSOC' from DUAL;
+
+'ACCOUNT_ADDRESS_ASSO
+---------------------
+ACCOUNT_ADDRESS_ASSOC
+
+SQL> @.\DataImport\ACCOUNT_ADDRESS_ASSOC.sql
+SQL> Select 'AL_ACCOUNT_ADDRESS_ASSOC' from DUAL;
+
+'AL_ACCOUNT_ADDRESS_ASSO
+------------------------
+AL_ACCOUNT_ADDRESS_ASSOC
+
+SQL> @.\DataImport\AL_ACCOUNT_ADDRESS_ASSOC.sql
+SQL> Select 'AL_ADDRESS' from DUAL;
+
+'AL_ADDRES
+----------
+AL_ADDRESS
+
+SQL> @.\DataImport\AL_ADDRESS.sql
+SQL> Select 'AL_CONFIG_ERRORCODE_REGISTRY' from DUAL;
+
+'AL_CONFIG_ERRORCODE_REGISTR
+----------------------------
+AL_CONFIG_ERRORCODE_REGISTRY
+
+SQL> @.\DataImport\AL_CONFIG_ERRORCODE_REGISTRY.sql
+SQL> Select 'AL_LE_ADDRESS_ASSOC' from DUAL;
+
+'AL_LE_ADDRESS_ASSO
+-------------------
+AL_LE_ADDRESS_ASSOC
+
+SQL> @.\DataImport\AL_LE_ADDRESS_ASSOC.sql
+SQL> Select 'AL_LE_IDENTIFIER_KYC_REGISTRY' from DUAL;
+
+'AL_LE_IDENTIFIER_KYC_REGISTR
+-----------------------------
+AL_LE_IDENTIFIER_KYC_REGISTRY
+
+SQL> @.\DataImport\AL_LE_IDENTIFIER_KYC_REGISTRY.sql
+SQL> Select 'AL_LE_TO_LE_RELATIONSHIP' from DUAL;
+
+'AL_LE_TO_LE_RELATIONSHI
+------------------------
+AL_LE_TO_LE_RELATIONSHIP
+
+SQL> @.\DataImport\AL_LE_TO_LE_RELATIONSHIP.sql
+SQL> Select 'AL_LE_VEHICLE_ASSOC' from DUAL;
+
+'AL_LE_VEHICLE_ASSO
+-------------------
+AL_LE_VEHICLE_ASSOC
+
+SQL> @.\DataImport\AL_LE_VEHICLE_ASSOC.sql
+SQL> Select 'AL_PHONE_STANDARDIZED' from DUAL;
+
+'AL_PHONE_STANDARDIZE
+---------------------
+AL_PHONE_STANDARDIZED
+
+SQL> @.\DataImport\AL_PHONE_STANDARDIZED.sql
+SQL> Select 'AL_REF_ADDRESS_SUBTYPE' from DUAL;
+
+'AL_REF_ADDRESS_SUBTYP
+----------------------
+AL_REF_ADDRESS_SUBTYPE
+
+SQL> @.\DataImport\AL_REF_ADDRESS_SUBTYPE.sql
+SQL> Select 'AL_REF_ADDRESS_TYPE' from DUAL;
+
+'AL_REF_ADDRESS_TYP
+-------------------
+AL_REF_ADDRESS_TYPE
+
+SQL> @.\DataImport\AL_REF_ADDRESS_TYPE.sql
+SQL> Select 'AL_REF_CORPORATION_TYPE' from DUAL;
+
+'AL_REF_CORPORATION_TYP
+-----------------------
+AL_REF_CORPORATION_TYPE
+
+SQL> @.\DataImport\AL_REF_CORPORATION_TYPE.sql
+SQL> Select 'AL_REF_GROUP_TYPE' from DUAL;
+
+'AL_REF_GROUP_TYP
+-----------------
+AL_REF_GROUP_TYPE
+
+SQL> @.\DataImport\AL_REF_GROUP_TYPE.sql
+SQL> Select 'AL_REF_MERGE_REASON' from DUAL;
+
+'AL_REF_MERGE_REASO
+-------------------
+AL_REF_MERGE_REASON
+
+SQL> @.\DataImport\AL_REF_MERGE_REASON.sql
+SQL> Select 'AL_REF_PERSONNAME_TYPE' from DUAL;
+
+'AL_REF_PERSONNAME_TYP
+----------------------
+AL_REF_PERSONNAME_TYPE
+
+SQL> @.\DataImport\AL_REF_PERSONNAME_TYPE.sql
+SQL> Select 'AL_REF_PERSON_TYPE' from DUAL;
+
+'AL_REF_PERSON_TYP
+------------------
+AL_REF_PERSON_TYPE
+
+SQL> @.\DataImport\AL_REF_PERSON_TYPE.sql
+SQL> Select 'AL_REF_STATUS_TYPE' from DUAL;
+
+'AL_REF_STATUS_TYP
+------------------
+AL_REF_STATUS_TYPE
+
+SQL> @.\DataImport\AL_REF_STATUS_TYPE.sql
+SQL> Select 'BATCH_ENTITY_TO_PROCESS' from DUAL;
+
+'BATCH_ENTITY_TO_PROCES
+-----------------------
+BATCH_ENTITY_TO_PROCESS
+
+SQL> @.\DataImport\BATCH_ENTITY_TO_PROCESS.sql
+SQL> Select 'LEGALENTITY' from DUAL;
+
+'LEGALENTIT
+-----------
+LEGALENTITY
+
+SQL> @.\DataImport\LEGALENTITY.sql
+SQL> Select 'LE_TO_LE_RELATIONSHIP' from DUAL;
+
+'LE_TO_LE_RELATIONSHI
+---------------------
+LE_TO_LE_RELATIONSHIP
+
+SQL> @.\DataImport\LE_TO_LE_RELATIONSHIP.sql
+SQL> Select 'PERSONNAMES' from DUAL;
+
+'PERSONNAME
+-----------
+PERSONNAMES
+
+SQL> @.\DataImport\PERSONNAMES.sql
+SQL> Select 'REF_AGREEMENT_TYPE' from DUAL;
+
+'REF_AGREEMENT_TYP
+------------------
+REF_AGREEMENT_TYPE
+
+SQL> @.\DataImport\REF_AGREEMENT_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_INACTIVATION_REASON' from DUAL;
+
+'REF_INACTIVATION_REASO
+-----------------------
+REF_INACTIVATION_REASON
+
+SQL> @.\DataImport\REF_INACTIVATION_REASON.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_INDUSTRY_CODE' from DUAL;
+
+'REF_INDUSTRY_COD
+-----------------
+REF_INDUSTRY_CODE
+
+SQL> @.\DataImport\REF_INDUSTRY_CODE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_LE_RATING' from DUAL;
+
+'REF_LE_RATIN
+-------------
+REF_LE_RATING
+
+SQL> @.\DataImport\REF_LE_RATING.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_MATCH_SCORE' from DUAL;
+
+'REF_MATCH_SCOR
+---------------
+REF_MATCH_SCORE
+
+SQL> @.\DataImport\REF_MATCH_SCORE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_PERSON_TYPE' from DUAL;
+
+'REF_PERSON_TYP
+---------------
+REF_PERSON_TYPE
+
+SQL> @.\DataImport\REF_PERSON_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_RELATIONSHIP_STATUS' from DUAL;
+
+'REF_RELATIONSHIP_STATU
+-----------------------
+REF_RELATIONSHIP_STATUS
+
+SQL> @.\DataImport\REF_RELATIONSHIP_STATUS.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'VEHICLE' from DUAL;
+
+'VEHICL
+-------
+VEHICLE
+
+SQL> @.\DataImport\VEHICLE.sql
+SQL> Select 'ACCOUNT_PHONE_ASSOC' from DUAL;
+
+'ACCOUNT_PHONE_ASSO
+-------------------
+ACCOUNT_PHONE_ASSOC
+
+SQL> @.\DataImport\ACCOUNT_PHONE_ASSOC.sql
+SQL> Select 'ADDRESS' from DUAL;
+
+'ADDRES
+-------
+ADDRESS
+
+SQL> @.\DataImport\ADDRESS.sql
+SQL> Select 'AL_ACCOUNT_PHONE_ASSOC' from DUAL;
+
+'AL_ACCOUNT_PHONE_ASSO
+----------------------
+AL_ACCOUNT_PHONE_ASSOC
+
+SQL> @.\DataImport\AL_ACCOUNT_PHONE_ASSOC.sql
+SQL> Select 'AL_AUTH_USERROLE_ACCESSCONTROL' from DUAL;
+
+'AL_AUTH_USERROLE_ACCESSCONTRO
+------------------------------
+AL_AUTH_USERROLE_ACCESSCONTROL
+
+SQL> @.\DataImport\AL_AUTH_USERROLE_ACCESSCONTROL.sql
+SQL> Select 'AL_LEGALENTITY' from DUAL;
+
+'AL_LEGALENTIT
+--------------
+AL_LEGALENTITY
+
+SQL> @.\DataImport\AL_LEGALENTITY.sql
+SQL> Select 'AL_LE_PERSON' from DUAL;
+
+'AL_LE_PERSO
+------------
+AL_LE_PERSON
+
+SQL> @.\DataImport\AL_LE_PERSON.sql
+SQL> Select 'AL_PERSONNAMES' from DUAL;
+
+'AL_PERSONNAME
+--------------
+AL_PERSONNAMES
+
+SQL> @.\DataImport\AL_PERSONNAMES.sql
+SQL> Select 'AL_PROPERTY' from DUAL;
+
+'AL_PROPERT
+-----------
+AL_PROPERTY
+
+SQL> @.\DataImport\AL_PROPERTY.sql
+SQL> Select 'AL_REF_ACCOUNT_SOURCE_STATUS' from DUAL;
+
+'AL_REF_ACCOUNT_SOURCE_STATU
+----------------------------
+AL_REF_ACCOUNT_SOURCE_STATUS
+
+SQL> @.\DataImport\AL_REF_ACCOUNT_SOURCE_STATUS.sql
+SQL> Select 'AL_REF_BRANCH_CODE' from DUAL;
+
+'AL_REF_BRANCH_COD
+------------------
+AL_REF_BRANCH_CODE
+
+SQL> @.\DataImport\AL_REF_BRANCH_CODE.sql
+SQL> Select 'AL_REF_COUNTRY_ISO' from DUAL;
+
+'AL_REF_COUNTRY_IS
+------------------
+AL_REF_COUNTRY_ISO
+
+SQL> @.\DataImport\AL_REF_COUNTRY_ISO.sql
+SQL> Select 'AL_REF_DEACTIVATION_REASON' from DUAL;
+
+'AL_REF_DEACTIVATION_REASO
+--------------------------
+AL_REF_DEACTIVATION_REASON
+
+SQL> @.\DataImport\AL_REF_DEACTIVATION_REASON.sql
+SQL> Select 'AL_REF_INACTIVATION_REASON' from DUAL;
+
+'AL_REF_INACTIVATION_REASO
+--------------------------
+AL_REF_INACTIVATION_REASON
+
+SQL> @.\DataImport\AL_REF_INACTIVATION_REASON.sql
+SQL> Select 'AL_REF_PHONE_SUBTYPE' from DUAL;
+
+'AL_REF_PHONE_SUBTYP
+--------------------
+AL_REF_PHONE_SUBTYPE
+
+SQL> @.\DataImport\AL_REF_PHONE_SUBTYPE.sql
+SQL> Select 'AL_REF_SOURCE_SYSTEM' from DUAL;
+
+'AL_REF_SOURCE_SYSTE
+--------------------
+AL_REF_SOURCE_SYSTEM
+
+SQL> @.\DataImport\AL_REF_SOURCE_SYSTEM.sql
+SQL> Select 'AL_VEHICLE' from DUAL;
+
+'AL_VEHICL
+----------
+AL_VEHICLE
+
+SQL> @.\DataImport\AL_VEHICLE.sql
+SQL> Select 'AUTH_USER_ROLE_ASSOC' from DUAL;
+
+'AUTH_USER_ROLE_ASSO
+--------------------
+AUTH_USER_ROLE_ASSOC
+
+SQL> @.\DataImport\AUTH_USER_ROLE_ASSOC.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'CORPORATIONNAMES' from DUAL;
+
+'CORPORATIONNAME
+----------------
+CORPORATIONNAMES
+
+SQL> @.\DataImport\CORPORATIONNAMES.sql
+SQL> Select 'LE_IDENTIFIER_KYC_REGISTRY' from DUAL;
+
+'LE_IDENTIFIER_KYC_REGISTR
+--------------------------
+LE_IDENTIFIER_KYC_REGISTRY
+
+SQL> @.\DataImport\LE_IDENTIFIER_KYC_REGISTRY.sql
+SQL> Select 'LE_PHONE_ASSOC' from DUAL;
+
+'LE_PHONE_ASSO
+--------------
+LE_PHONE_ASSOC
+
+SQL> @.\DataImport\LE_PHONE_ASSOC.sql
+SQL> Select 'LE_PREFERENCES' from DUAL;
+
+'LE_PREFERENCE
+--------------
+LE_PREFERENCES
+
+SQL> @.\DataImport\LE_PREFERENCES.sql
+SQL> Select 'LE_VEHICLE_ASSOC' from DUAL;
+
+'LE_VEHICLE_ASSO
+----------------
+LE_VEHICLE_ASSOC
+
+SQL> @.\DataImport\LE_VEHICLE_ASSOC.sql
+SQL> Select 'REF_BATCH_PROPOSED_ACTION' from DUAL;
+
+'REF_BATCH_PROPOSED_ACTIO
+-------------------------
+REF_BATCH_PROPOSED_ACTION
+
+SQL> @.\DataImport\REF_BATCH_PROPOSED_ACTION.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_CLASSIFICATION_CODE' from DUAL;
+
+'REF_CLASSIFICATION_COD
+-----------------------
+REF_CLASSIFICATION_CODE
+
+SQL> @.\DataImport\REF_CLASSIFICATION_CODE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_LANGUAGE_CODE' from DUAL;
+
+'REF_LANGUAGE_COD
+-----------------
+REF_LANGUAGE_CODE
+
+SQL> @.\DataImport\REF_LANGUAGE_CODE.sql
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_LE_ROLETYPE' from DUAL;
+
+'REF_LE_ROLETYP
+---------------
+REF_LE_ROLETYPE
+
+SQL> @.\DataImport\REF_LE_ROLETYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_STATUS_IN_SOURCE' from DUAL;
+
+'REF_STATUS_IN_SOURC
+--------------------
+REF_STATUS_IN_SOURCE
+
+SQL> @.\DataImport\REF_STATUS_IN_SOURCE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+SQL> Select 'REF_STATUS_TYPE' from DUAL;
+
+'REF_STATUS_TYP
+---------------
+REF_STATUS_TYPE
+
+SQL> @.\DataImport\REF_STATUS_TYPE.sql
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+Commit complete.
+
+
+Commit complete.
+
