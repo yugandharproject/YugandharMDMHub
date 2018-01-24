@@ -1213,10 +1213,9 @@ href="https://github.com/yugandharproject/YugandharMDMHub">https://github.com/yu
 <h1>Contacts</h1>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><a
-href="mailto:support@yugandharproject.com">support@yugandharproject.com</a></b></p>
+href="mailto:support@yugandharproject.com">contact.yugandharproject@gmail.com</a></b></p>
 
-<p class=MsoNormal><span class=SpellE><b style='mso-bidi-font-weight:normal'>support.yugandharproject</b></span><b
-style='mso-bidi-font-weight:normal'> @gmail.com<o:p></o:p></b></p>
+</o:p></b></p>
 
 <h1>How to Contribute</h1>
 
