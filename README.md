@@ -1225,10 +1225,9 @@ mail to us at below email id mentioning the area in which you can contribute.
 We will respond to you at the earliest</p>
 
 <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><a
-href="mailto:support@yugandharproject.com">support@yugandharproject.com</a></b></p>
+href="mailto:support@yugandharproject.com">contact.yugandharproject@gmail.com</a></b></p>
 
-<p class=MsoNormal><span class=SpellE><b style='mso-bidi-font-weight:normal'>support.yugandharproject</b></span><b
-style='mso-bidi-font-weight:normal'> @gmail.com<o:p></o:p></b></p>
+</o:p></b></p>
 
 <p class=MsoNormal>The Name of the contributors will be listed in either ‘Team’
 or ‘Contributors’ or in both the section based on level of contribution.</p>
