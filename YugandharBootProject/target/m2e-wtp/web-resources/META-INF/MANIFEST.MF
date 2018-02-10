@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: YugandharComponent
+Implementation-Title: YugandharBootProject
 Implementation-Version: 1.0.0.RELEASE
 Built-By: SYSTEM
 Implementation-Vendor-Id: com.yugandhar
 Build-Jdk: 1.8.0_121
-Implementation-URL: http://projects.spring.io/spring-boot/YugandharCom
- ponent/
+Implementation-URL: http://projects.spring.io/spring-boot/YugandharBoo
+ tProject/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 
