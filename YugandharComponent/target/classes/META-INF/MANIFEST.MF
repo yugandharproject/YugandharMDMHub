@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Implementation-Title: YugandharComponent
-Implementation-Version: 1.0.0.RELEASE
+Implementation-Version: 1.1.0.RELEASE
 Built-By: SYSTEM
 Implementation-Vendor-Id: com.yugandhar
 Build-Jdk: 1.8.0_121

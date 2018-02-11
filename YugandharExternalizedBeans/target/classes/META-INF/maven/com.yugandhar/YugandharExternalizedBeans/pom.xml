@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.yugandhar</groupId>
   <artifactId>YugandharExternalizedBeans</artifactId>
-  <version>1.0.0.RELEASE</version>
+  <version>1.1.0.RELEASE</version>
   <name>YugandharExternalizedServices</name>
   <description>Externalized code which the clients can modify</description>
     <parent>

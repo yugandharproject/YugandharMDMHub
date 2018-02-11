@@ -30,7 +30,7 @@ import com.yugandhar.mdm.misc.dobj.CommonValidationResponse;
 
 
 @RestController
-@RequestMapping("/jsonrest")
+@RequestMapping("/rest")
 public class DefaultJsonRESTController {
 	private static final Logger logger = LoggerFactory.getLogger(yugandharConstants.YUGANDHAR_COMMON_LOGGER);
 
@@ -57,7 +57,7 @@ public class DefaultJsonRESTController {
 	 *
 	 */
 	
-	@RequestMapping(value = "/YugandharRequestProcessor", headers = "Accept=application/json", method = RequestMethod.POST)
+	@RequestMapping(value = "/YugandharRequestProcessor", method = RequestMethod.POST)
 	public TxnTransferObj YugandharRequestProcessor(@RequestBody TxnTransferObj txnTransferObj) {
 		try {
 			return requestProcessor.processMessage(txnTransferObj);
