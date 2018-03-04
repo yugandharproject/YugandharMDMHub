@@ -1,0 +1,36 @@
+
+Release notes for Yugandhar Open Master Data Management Hub Version 1.0.0
+===========================================================================
+
+Release Summary
++++++++++++++++++++
+Release Version: 1.0.0.RELEASE
+Release Type: General Availability
+Availability Date: 30/11/2017
+
+Description:
+We are delighted to announce the first release ( version 1.0.0.RELEASE) of the Yugandhar Master Data Management Hub. The Yugandhar MDM Hub catering to CDI solution is built with Open source technologies, inbuilt data Model, 400+ ready to use services and having incredible Out of the Box capabilities is currently being distributed.The application is built using Spring Boot version 1.5.6.RELEASE.
+Downloads
+The general download is available from below link https://github.com/yugandharproject/YugandharMDMHub
+
+System Requirements:
+Refer the system requirements at below location
+https://yugandharproject.blogspot.in/p/system-requirements.html
+
+Contact and Raising Issues:
+We recommended to raise queries as issues in on the github project at the below link
+https://github.com/yugandharproject/YugandharMDMHub/issues
+However you can contact the project team at below mentioned email id if needed
+contact.yugandharproject@gmail.com
+
+Known Issues and Limitations:
+NA
+
+Notice:
+The Yugandhar Open MDM Hub must be used in accordance with the Licensing terms and conditions.
+
+License:
+Yugandhar MDM Project is licensed under Apache 2.0 license; refer the full license text at below link
+https://github.com/yugandharproject/YugandharMDMHub/blob/master/LICENSE
+
+Visit http://www.yugandharproject.info for more information.
