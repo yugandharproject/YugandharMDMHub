@@ -31,6 +31,7 @@ import com.yugandhar.mdm.misc.dobj.CommonValidationResponse;
 
 @RestController
 @RequestMapping("/rest")
+@Scope(value = "prototype")
 public class DefaultJsonRESTController {
 	private static final Logger logger = LoggerFactory.getLogger(yugandharConstants.YUGANDHAR_COMMON_LOGGER);
 
